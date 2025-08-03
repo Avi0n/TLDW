@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
   "notes": "✨ Features:\n- Added support for almost any video platform that yt-dlp supports!\n- Added URL tracking cleanup\n- Implemented native file browser export functionality\n- Updated application icon\n- Simplified AI Summary component by removing manual summarization trigger\n- Enhanced error handling throughout the application\n\n🔧 Improvements:\n- Enhanced audio download path handling\n- Fixed export button functionality by preventing collapsible toggle conflicts\n\n\n🐛 Bug Fixes:\n- Fixed process spawning issues by adding multiprocessing.freeze_support\n- Corrected export button functionality preventing UI conflicts\n\n🧰 Chores:\n- Removed unused Rust function and imports to clean up codebase\n- Added missing dependency in Cargo.toml",
-  "pub_date": "2025-08-03T11:02:00Z",
+  "pub_date": "2025-08-03T11:30:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUkkrMGRhenp5Y1dCY3RRZ1IxU3VCQ3NMK3dmelRzb0FkTWZvRVNkTmVhbWtrdmtoOTNkRVc1YjRyWUV4c2ZKUmwvZjZmMFEwaVVzMmJhcE92ZXl5UEQ2Q2dmVkxOeVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MjQ4NjQwCWZpbGU6VExEVy5hcHAudGFyLmd6CnpNbEJ2ZFJmcVNzRUNaY2NzNERaQTFkcy95THA1RUovSVlwVWJNTEFWRTBBT2tGZEhJb0VUdXUzM3V3d29iNXFVc3BmS1pzWU5QZ1hVb25mTk94SUJ3PT0K",
