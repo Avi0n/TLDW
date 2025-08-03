@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Test notes",
+  "pub_date": "2025-08-03T10:26:00Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUkkrMGRhenp5Y1pTcEd3QmR6Sy9PZHgzR1RoQ1lJeE50ejUyME00YURLLys2cnd4OTJDc3ZncHBjTTFZQStVWXRVZXJEdVRRckJDZ2xRQmI1NFRObGpzNUQ0T1FzdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MjQxOTg5CWZpbGU6VExEVy5hcHAudGFyLmd6CjV5Zlh3UmFuOFROVFRJM0l3ejJZT0UvTHZHbkRuL2o0c05Cb25PSTd6UCt6R2MvOHhlK2JZeFQyYnJ2R1c1U1ArLzFpdXFUOTYwL21MSnltRUFhZkFBPT0K",
+      "url": ""
+    }
+  }
+}
